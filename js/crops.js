@@ -1195,7 +1195,9 @@ var crops = {
       "sell": 100,
       "pierre": 160,
       "joja": 0,
-      "special": 0
+      "special": 80,
+      "specialLoc": "Mermaid",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/20599"
     },
     "growth": {
       "initial": 9,
