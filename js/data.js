@@ -219,7 +219,11 @@ var seasons = [
 			crops.carrot,
 			crops.summersquash,
 			crops.broccoli,
-			crops.powdermelon
+			crops.powdermelon,
+			crops.aineflower,
+			crops.sweetpotato,
+			crops.butternutsquash,
+			crops.cucumber
 		]
 	}
 ];
