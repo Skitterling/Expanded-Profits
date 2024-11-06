@@ -1190,7 +1190,7 @@ var crops = {
   "aineflower": {
     "name": "Aine Flower",
     "url": "https://www.nexusmods.com/stardewvalley/mods/20599",
-    "img": "AineFlower.png",
+    "img": "aineFlower.png",
     "seeds": {
       "sell": 100,
       "pierre": 160,
@@ -1210,7 +1210,7 @@ var crops = {
   "cucumber": {
     "name": "Cucumber",
     "url": "https://stardew-valley-expanded.fandom.com/wiki/Cucumber",
-    "img": "Cucumber.png",
+    "img": "cucumber.png",
     "seeds": {
       "sell": 35,
       "pierre": 70,
@@ -1223,7 +1223,7 @@ var crops = {
     },
     "produce": {
       "extra": 1,
-      "extraPerc": 20,
+      "extraPerc": .2,
       "price": 49,
       "jarType": "Pickles",
       "kegType": "Juice"
