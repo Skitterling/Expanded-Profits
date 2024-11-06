@@ -1271,5 +1271,5 @@ var crops = {
       "jarType": "Pickles",
       "kegType": "Juice"
     }
-  }
+  },
 };
