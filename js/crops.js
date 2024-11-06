@@ -1249,8 +1249,9 @@ var crops = {
       "price": 200,
       "jarType": "Pickles",
       "kegType": "Juice"
-    },
-    "sweetpotato": {
+    }
+  },
+  "sweetpotato": {
     "name": "Butternut Squash",
     "url": "https://stardew-valley-expanded.fandom.com/wiki/Sweet_Potato",
     "img": "sweetpotato.png",
@@ -1271,5 +1272,5 @@ var crops = {
       "jarType": "Pickles",
       "kegType": "Juice"
     }
-  },
+  }
 };
