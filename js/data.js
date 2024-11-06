@@ -221,5 +221,5 @@ var seasons = [
 			crops.broccoli,
 			crops.powdermelon
 		]
-	}
+	},
 ];
