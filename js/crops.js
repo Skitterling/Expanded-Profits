@@ -1195,7 +1195,9 @@ var crops = {
       "sell": 100,
       "pierre": 160,
       "joja": 0,
-      "special": 0
+      "special": 80,
+      "specialLoc": "Mermaid",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/20599"
     },
     "growth": {
       "initial": 9,
@@ -1225,6 +1227,50 @@ var crops = {
       "extra": 1,
       "extraPerc": .2,
       "price": 49,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "butternutsquash": {
+    "name": "Butternut Squash",
+    "url": "https://stardew-valley-expanded.fandom.com/wiki/Butternut_Squash",
+    "img": "butternutsquash.png",
+    "seeds": {
+      "sell": 45,
+      "pierre": 90,
+      "joja": 0,
+      "special": 0
+    },
+    "growth": {
+      "initial": 12,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 200,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "sweetpotato": {
+    "name": "Butternut Squash",
+    "url": "https://stardew-valley-expanded.fandom.com/wiki/Sweet_Potato",
+    "img": "sweetpotato.png",
+    "seeds": {
+      "sell": 79,
+      "pierre": 134,
+      "joja": 0,
+      "special": 0
+    },
+    "growth": {
+      "initial": 12,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 280,
       "jarType": "Pickles",
       "kegType": "Juice"
     }
