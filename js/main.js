@@ -5,7 +5,7 @@ var svgWidth = 1080;
 var svgMinWidth = 300;
 var svgHeight = 480;
 
-var width = svgWidth - 48;
+var width = svgWidth;
 var height = (svgHeight - 56) / 2;
 var barPadding = 4;
 var paddingLeft = 8;
